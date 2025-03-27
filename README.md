@@ -1,4 +1,4 @@
-# lokiargo
+# Kubernetes-ArgoCD-Rancher
 This project connects your local kubernetes (Rancher desktop) to your GIT repo using ArgoCD.
 ArgoCD will pull your config files (Deployment, Services, etc) from the GIT and any changes made there will be reflected in your cluster.
 
