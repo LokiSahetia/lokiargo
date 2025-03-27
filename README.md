@@ -29,7 +29,7 @@ k get secret argocd-initial-admin-secret -o yaml -n argocd #display your secret 
 echo foo|base64 -d  #replace foo with the password that was displayed in yaml
 
 
-SETTING UP GIT LOCALLY (These are the steps I followed...My github repo (named lokiargo) had nothing...you can tweak and do something similar)
+SETTING UP GIT LOCALLY (These are the steps I followed...My github repo (named lokiargo) had nothing...you can make your new empty repo and follow these steps... tweak and replace my reponame and link with yours)
 
 #terminal
 
